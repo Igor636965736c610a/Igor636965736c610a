@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## My projects
+
+|Name|Description|Stack|
+|----|-----------|--------|
+|[GyMe](https://github.com/Igor636965736c610a/GyMe)|An application for tracking your and your friends' workout[asp, C#|
+|[Chess](https://github.com/Igor636965736c610a/ChessApi)|An app to play online chess with others|asp, C#|
+
 <!--
 **Igor636965736c610a/Igor636965736c610a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
