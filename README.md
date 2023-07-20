@@ -4,8 +4,8 @@
 
 |Name|Description|Stack|
 |----|-----------|--------|
-|[GyMe](https://github.com/Igor636965736c610a/GyMe)|An application for tracking your and your friends' workou|asp, C#|
-|[Chess](https://github.com/Igor636965736c610a/ChessApi)|An app to play online chess with others|asp, C#|
+|[GyMe](https://github.com/Igor636965736c610a/GyMe)|An application for tracking your and your friends' workou|asp .net, C#|
+|[Chess](https://github.com/Igor636965736c610a/ChessApi)|An app to play online chess with others|asp .net, C#|
 
 <!--
 **Igor636965736c610a/Igor636965736c610a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
