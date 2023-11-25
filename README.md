@@ -5,7 +5,7 @@
 |Name|Description|Stack|
 |----|-----------|--------|
 |[GyMe](https://github.com/Igor636965736c610a/GyMe)|Application for tracking your and your friends' workout|C#, ASP .NET|
-|[HardwareMonitor](https://github.com/Igor636965736c610a/HardwareMonitor)|application for display hardware information and managing processes like windows manager|Rust, egui|
+|[HardwareMonitor](https://github.com/Igor636965736c610a/HardwareMonitor)|Application for display hardware information and managing processes like windows manager|Rust, egui|
 |[Chess](https://github.com/Igor636965736c610a/ChessApi)|Application to play online chess with others|C#, ASP .NET|
 
 <!--
