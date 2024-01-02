@@ -8,8 +8,9 @@
 |[HardwareMonitor](https://github.com/Igor636965736c610a/HardwareMonitor)|Application for display hardware information and managing processes like windows manager|Rust, egui|
 |[Chess](https://github.com/Igor636965736c610a/ChessApi)|Application to play online chess with others|C#, ASP .NET|
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](igormiekina@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/555710805040037889)
+
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](igormiekina@gmail.com)
+ [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/555710805040037889)
 
 <!--
 **Igor636965736c610a/Igor636965736c610a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
