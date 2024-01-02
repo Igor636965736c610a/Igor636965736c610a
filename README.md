@@ -9,7 +9,7 @@
 |[Chess](https://github.com/Igor636965736c610a/ChessApi)|Application to play online chess with others|C#, ASP .NET|
 
 ## Contact
- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](igormiekina@gmail.com)
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igormiekina@gmail.com)
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/555710805040037889)
 
 <!--
